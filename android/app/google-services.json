@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "911653921754",
+    "project_id": "e-spire-fcf7b",
+    "storage_bucket": "e-spire-fcf7b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911653921754:android:f7a0507428e6ba67f096e3",
+        "android_client_info": {
+          "package_name": "com.example.mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVl-gt_iI-EG9rIoTIAMQZaPg_IFa6egc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
